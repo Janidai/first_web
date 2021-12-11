@@ -1,1 +1,2 @@
-# first_web
+# Description
+A simple web application
